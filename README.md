@@ -12,4 +12,6 @@
 
 ### Analytics ⚙️
 
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/5402398?color=orange&label=StackOverflow&logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/5402398)
+
 ### Let's connect ? 🤝
