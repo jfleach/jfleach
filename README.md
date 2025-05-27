@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jfleach&color=blue)
 
-### Languages & Tools 🛠
+### Skills
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp; ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
