@@ -29,6 +29,8 @@ I work with:
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 
+Profile picture: [Queenstown, New Zealand](https://en.wikipedia.org/wiki/Ben_Lomond_(Otago)) :thumbsup:
+
 ![Profile Views](https://komarev.com/ghpvc/?username=jfleach&color=blue)
 
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/5402398?color=orange&label=StackOverflow&logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/5402398)
